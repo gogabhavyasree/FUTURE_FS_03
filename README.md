@@ -29,7 +29,7 @@ A professional, modern, and fully responsive cafe website built for **Urban Bite
 ## Screenshots
 
 ### Home Page
-![Home](images/urbanbites-home.png)
+![Home](https://github.com/gogabhavyasree/FUTURE_FS_03/blob/main/OUTPUT/home-page.png?raw=true)
 
 ### About Section
 ![About](images/urbanbites-about.png)

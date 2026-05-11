@@ -38,7 +38,7 @@ A professional, modern, and fully responsive cafe website built for **Urban Bite
 ![Menu](https://github.com/gogabhavyasree/FUTURE_FS_03/blob/main/OUTPUT/menu-section.png?raw=true)
 
 ### Gallery Section
-![Gallery](images/urbanbites-gallery.png)
+![Gallery](https://github.com/gogabhavyasree/FUTURE_FS_03/blob/main/OUTPUT/gallery-section.png?raw=true)
 
 ### Testimonials Section
 ![Reviews](images/urbanbites-testimonials.png)

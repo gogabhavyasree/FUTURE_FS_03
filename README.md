@@ -26,10 +26,26 @@ A professional, modern, and fully responsive cafe website built for **Urban Bite
 - **Font Awesome**: Premium iconography.
 - **Google Fonts**: Modern typography (Playfair Display & Outfit).
 
-## 📸 Screenshots
-*(Add your screenshots here after deployment)*
-- Desktop View: `[link to screenshot]`
-- Mobile View: `[link to screenshot]`
+## Screenshots
+
+### Home Page
+![Home](images/urbanbites-home.png)
+
+### About Section
+![About](images/urbanbites-about.png)
+
+### Menu Section
+![Menu](images/urbanbites-menu.png)
+
+### Gallery Section
+![Gallery](images/urbanbites-gallery.png)
+
+### Testimonials Section
+![Reviews](images/urbanbites-testimonials.png)
+
+### Contact Section
+![Contact](images/urbanbites-contact.png)
+
 
 ## 🚀 Installation Steps
 1. **Clone the repository:**

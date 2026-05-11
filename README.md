@@ -32,7 +32,7 @@ A professional, modern, and fully responsive cafe website built for **Urban Bite
 ![Home](https://github.com/gogabhavyasree/FUTURE_FS_03/blob/main/OUTPUT/home-page.png?raw=true)
 
 ### About Section
-![About](https://github.com/gogabhavyasree/FUTURE_FS_03/blob/main/OUTPUT/about-section.png?raw=true)
+![About](https://github.com/gogabhavyasree/FUTURE_FS_03/blob/main/OUTPUT/menu-section.png?raw=true)
 
 ### Menu Section
 ![Menu](images/urbanbites-menu.png)
